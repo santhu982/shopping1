@@ -24,7 +24,7 @@
     <groupId>shopping1</groupId>
     <artifactId>dashboard1</artifactId>
     <version>v1</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <!-- Maven -->
